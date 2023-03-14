@@ -7,7 +7,7 @@ import Result from './screens/result'
 const App = () => {
   return (
     <View style={styles.container}>
-      <Quiz />
+      <Home />
     </View>
   )
 }
